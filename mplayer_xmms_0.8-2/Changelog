@@ -1,0 +1,11 @@
+v 0.8-2
+-better playing videos
+v 0.8-1
+-fixed buffer size using temporal file
+
+v 0.8
+
+-ao pcm:nowaveheader, -ao pcm:file=<filename> for MPlayer 1.0pre7
+-Added option to use temporal file or named pipe for audio
+-Added configuration dialog
+-Added file magic info 

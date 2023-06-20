@@ -1,0 +1,4 @@
+-si mplayer no se encuentra, se cuelga el xmms
+-añadir opcion para poder hacer seek con pipe, y con archivo temporal cuando aun no
+ se ha generado todo el archivo temporal entero
+-si hay pipe, al acabar de reproducir el archivo, en la duracion devuelve 0:00
